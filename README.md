@@ -44,6 +44,8 @@ The neural network was trained for 100 epochs with a batch size of 32, using bot
 
 ### Training Results
 The training process resulted in progressively improving accuracy and decreasing loss. After 100 epochs, the model achieved satisfactory performance on both the training and validation sets.
+
+
 ![Training Outcomes](https://github.com/Kunal3012/NeuralNetworks_CustomerChurnPrediction/blob/main/training_outcome.png)
 
 ### Metrics
